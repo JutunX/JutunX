@@ -1,5 +1,4 @@
-👋 Hi, I’m @Adiyatma <br>
-👀 I’m interested in VB.Net, Lua<br>
+👋 Hi, I’m @Jut <br>
 📫 Wanna reach me? Jutun#4125
 <!--
 **adiyatmab/adiyatmab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
